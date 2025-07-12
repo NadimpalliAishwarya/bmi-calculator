@@ -42,6 +42,11 @@ This BMI calculator takes inputs in centimeters and kilograms, which are standar
 4. Click **Reset** to clear everything
 
 ---
+## 🔗 Live Demo
+
+👉 [Click here to view the live BMI Calculator](https://nadimpalliaishwarya.github.io/bmi-calculator/)
+
+---
 ## License
 
 This project is open-source and free to use.
