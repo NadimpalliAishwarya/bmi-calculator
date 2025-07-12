@@ -2,6 +2,7 @@
 
 A simple and responsive BMI (Body Mass Index) Calculator built with **HTML**, **CSS**, and **JavaScript**.  
 Calculate your BMI and get instant health tips based on your result.
+This BMI calculator takes inputs in centimeters and kilograms, which are standard units for BMI.
 
 ---
 ## Features
