@@ -39,7 +39,6 @@ Calculate your BMI and get instant health tips based on your result.
 2. Enter your **weight** in kilograms
 3. Click on **Calculate** to get your BMI and tips
 4. Click **Reset** to clear everything
-5. screenshot.png
 
 ---
 ## License
